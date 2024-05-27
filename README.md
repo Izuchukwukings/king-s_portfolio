@@ -10,5 +10,5 @@ This is a personal project where Tableau visualization dashboard was used to rec
 * You can view the live dashboard [here](https://public.tableau.com/app/profile/izuchukwu.ugwuodo/viz/Book1_17168005081300/Dashboard1)
 
 # Overview of the top 10 rated films, gross, and profitability per movies 
-![](images/movie recommendation.png)
+![](movie recommendation.png)
 
