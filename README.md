@@ -26,4 +26,4 @@ This project dives into the fascinating world of global development with this in
 * You can view the live dashboard [here](https://public.tableau.com/app/profile/izuchukwu.ugwuodo/viz/NationsinFocusHDI/NationsinFocusHDI)
 
 # Overview of how HDI vary among Nations 
-![]()
+![](Screenshot 2024-05-30 114040.png)
