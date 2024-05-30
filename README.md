@@ -1,4 +1,4 @@
-# Tableau Portfolio
+# Data Analysis Portfolio
 
 
 # [Project 1: Movie Recommendation System Model](https://izuchukwukings.github.io/king-s_portfolio/)
